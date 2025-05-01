@@ -1,8 +1,8 @@
 {
   "name": "file-manager-rs",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Command-line File Manager built with Node.js",
+  "main": "fileManager.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
